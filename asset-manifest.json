@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/://lucasgruenwald.github.io/RollDice/static/css/main.747d84ec.chunk.css",
+    "main.js": "/://lucasgruenwald.github.io/RollDice/static/js/main.ef75e421.chunk.js",
+    "main.js.map": "/://lucasgruenwald.github.io/RollDice/static/js/main.ef75e421.chunk.js.map",
+    "runtime-main.js": "/://lucasgruenwald.github.io/RollDice/static/js/runtime-main.334d8fef.js",
+    "runtime-main.js.map": "/://lucasgruenwald.github.io/RollDice/static/js/runtime-main.334d8fef.js.map",
+    "static/js/2.67e6cd73.chunk.js": "/://lucasgruenwald.github.io/RollDice/static/js/2.67e6cd73.chunk.js",
+    "static/js/2.67e6cd73.chunk.js.map": "/://lucasgruenwald.github.io/RollDice/static/js/2.67e6cd73.chunk.js.map",
+    "index.html": "/://lucasgruenwald.github.io/RollDice/index.html",
+    "precache-manifest.2bdb767e60e608c22b8ba0062c233fef.js": "/://lucasgruenwald.github.io/RollDice/precache-manifest.2bdb767e60e608c22b8ba0062c233fef.js",
+    "service-worker.js": "/://lucasgruenwald.github.io/RollDice/service-worker.js",
+    "static/css/main.747d84ec.chunk.css.map": "/://lucasgruenwald.github.io/RollDice/static/css/main.747d84ec.chunk.css.map",
+    "static/js/2.67e6cd73.chunk.js.LICENSE.txt": "/://lucasgruenwald.github.io/RollDice/static/js/2.67e6cd73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.334d8fef.js",
+    "static/js/2.67e6cd73.chunk.js",
+    "static/css/main.747d84ec.chunk.css",
+    "static/js/main.ef75e421.chunk.js"
+  ]
+}
